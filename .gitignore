@@ -1,0 +1,53 @@
+# Run generated files
+*.pdf
+*.h5
+*.mat
+*.m~
+.ipynb*/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+Portfile
+.coverage
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS/editor files
+*.swp
+.DS_Store
+.idea
+
+# Examples & output
+/deepclean/Plots/*
+/html/day
+
+# Patches
+/*.patch
+
+# py.test cache dir
+/.cache
+
+# dqsegdb files
+__dqsegdb*.json
+__segments*.json  3
