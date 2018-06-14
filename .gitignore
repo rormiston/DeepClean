@@ -1,5 +1,4 @@
 # Run generated files
-*.pdf
 *.h5
 *.mat
 *.m~
